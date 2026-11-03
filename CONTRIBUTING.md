@@ -1,6 +1,6 @@
 # Contributing to Free Law Project
 
-Thanks for your interest in contributing! Please start with our [developer guide](https://wiki.free.law/c/courtlistener/dev-guide/getting-started), which covers setup, our contribution guidelines, and the Contributor License Agreement. Some repositories have their own CONTRIBUTING.md with project-specific details.
+Thanks for your interest in contributing! Please start with our [developer guide](https://wiki.free.law/c/courtlistener/dev-guide/getting-started) (written for CourtListener, but most of it applies to our other repositories too), which covers setup, our contribution guidelines, and the Contributor License Agreement. Some repositories have their own CONTRIBUTING.md with project-specific details.
 
 ## Finding something to work on
 
