@@ -1,0 +1,5 @@
+# Org-wide default funding links, shown in the "Sponsor this project" section
+# of any freelawproject repo that doesn't define its own .github/FUNDING.yml.
+
+github: freelawproject
+custom: https://free.law/donate
