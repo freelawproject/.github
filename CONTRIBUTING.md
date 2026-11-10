@@ -29,6 +29,15 @@ Your contributions will be reviewed by FLP staff. Note that code review may be s
 
 If you get stuck or have a question, ask in a comment on the issue you're working on, or in [GitHub Discussions](https://github.com/freelawproject/courtlistener/discussions).
 
+### Inactive pull requests
+
+If we've asked for changes on your pull request and haven't heard back in some time:
+
+- **Small changes**: if all that's left is something minor, such as adding a line to `CHANGES.md` or resolving a small merge conflict with `main`, a maintainer may make the change and merge your PR. Your commits stay in the history with you as the author.
+- **Larger changes**: if the PR still needs substantial work, we may close it. When you're ready to pick it back up, comment on the related issue and we'll reopen it.
+
+This helps maintainers keep our repositories tidy and spend their time on other work instead of keeping track of open PRs.
+
 ## Using AI tools
 
 You're welcome to use AI tools, but a person must stand behind every contribution. Please read our [AI policies for volunteers](https://wiki.free.law/c/ai-policies-resources/policies/artificial-intelligence-policies-for-volunteers-working-with-free-law-project) first.
